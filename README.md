@@ -7,7 +7,7 @@
 
 
 ### Notes
-- Bought on `08.02.2025` for `$3,350`
+- Bought on `08.02.2025` for `$3,350` with `171` miles
 - VIN: `MLHJA5551N5105320`
 - Engine #: `JA55E6105320`
 - License plate #: `26E0172`
