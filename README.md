@@ -8,9 +8,9 @@
 
 ### Notes
 - Bought on `08.02.2025` for `$3,350`
-- VIN: `RF3AB11Y9HT007045` - TBD
-- Engine #: `B308E0009360` - TBD
-- License plate #: `GD LUKA` - TBD
+- VIN: `MLHJA5551N5105320`
+- Engine #: `JA55E6105320`
+- License plate #: `26E0172`
 - Gas: `87+`
 - Engine oil:
   - Type: `10W-30` full synthetic
