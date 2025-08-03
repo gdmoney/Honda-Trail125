@@ -1,7 +1,7 @@
 # 2022 Honda Trail 125
 
 
-### Maintenance log and parts/upgrades tracking for Honda Trail
+### Maintenance log and parts/upgrades tracking for the Honda Trail
 
 ![](/pic.jpg)
 
