@@ -24,4 +24,6 @@
 - https://beezdeals.com/product/rear-rack-ct125-trail-125/  
 - https://beezdeals.com/product/diablo-air-filter-cover-v2-honda-trail-ct125/  
 - https://beezdeals.com/product/diablo-crash-bar-v2-gen-2-honda-trail-ct125/  
-https://beezdeals.com/product/diabolus-exhaust-retro-scrambler-honda-trail-ct125/  
+- https://beezdeals.com/product/diabolus-exhaust-retro-scrambler-honda-trail-ct125/  
+- https://www.amazon.com/dp/B0CCW7BF3Z?th=1&linkCode=sl1&tag=thetechne0d-20&linkId=25d2a35e7e16ab483cafa2516a83eb51&language=en_US
+- https://www.amazon.com/dp/B0BX5Y74M9?th=1&linkCode=sl1&tag=thetechne0d-20&linkId=400b2394ad37503492b2cad7a7f1c4da&language=en_US
