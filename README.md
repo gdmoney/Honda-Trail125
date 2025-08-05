@@ -20,6 +20,21 @@
   - Rear:  `80/90-17M/C 50P` - `33 psi`
 
 
+### Service
+
+| Service/Part                 | Date       | Mileage    | Cost       | Notes                                             |
+| :--------------------------- | :--------- | :--------: | :--------: | :------------------------------------------------ |
+| chain clean & wax            | nn.nn.2025 |    nnn     |            |                                                   |
+| engine oil                   | nn.nn.2025 |    nnn     |            |                                                   |
+
+
+### Parts/Upgrades
+
+| Part                         | Brand                   | Cost       | Notes                                             |
+| :--------------------------- | :---------------------- | :--------: | :------------------------------------------------ |
+| Magnetic drain plug          | GoldPlug                | $22        | came with it                                      |
+
+
 ### Links
 - https://beezdeals.com/product/rear-rack-ct125-trail-125/
 - https://beezdeals.com/product/black-long-seat-honda-ct125-trail-125/  
