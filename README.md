@@ -25,3 +25,4 @@
 - https://beezdeals.com/product/diablo-air-filter-cover-v2-honda-trail-ct125/  
 - https://beezdeals.com/product/diablo-crash-bar-v2-gen-2-honda-trail-ct125/  
 - https://beezdeals.com/product/crash-bar-engine-guard-v2-honda-ct125-trail-125/  
+https://beezdeals.com/product/diabolus-exhaust-retro-scrambler-honda-trail-ct125/  
