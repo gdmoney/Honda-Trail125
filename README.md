@@ -13,7 +13,7 @@
 - License plate #: `26E0172`
 - Gas: `87+`
 - Engine oil:
-  - Type: `10W-30` full synthetic
+  - Type: `10W-30`
   - Capacity: `0.7 L (0.7 qt)`
 - Tires:
   - Front: `80/90-17M/C 44P` - `25 psi`
