@@ -24,8 +24,8 @@
 
 | Service/Part                 | Date       | Mileage    | Cost       | Notes                                             |
 | :--------------------------- | :--------- | :--------: | :--------: | :------------------------------------------------ |
-| chain clean & wax            | nn.nn.2025 |    nnn     |            |                                                   |
-| engine oil                   | nn.nn.2025 |    nnn     |            |                                                   |
+| Chain clean & wax            | nn.nn.2025 |    nnn     |            |                                                   |
+| Engine oil                   | nn.nn.2025 |    nnn     |            |                                                   |
 
 
 ### Parts/Upgrades
