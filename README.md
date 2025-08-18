@@ -34,3 +34,4 @@
 | :--------------------------- | :---------------------- | :--------: | :------------------------------------------------ |
 | Magnetic drain plug          | GoldPlug                | $22        | came with it                                      |
 | Crate                        | Bigant                  | $27        | Small crate - bought on Amazon                    |
+| Crash bars                   | Midimttop               | $130       | bought on Amazon
